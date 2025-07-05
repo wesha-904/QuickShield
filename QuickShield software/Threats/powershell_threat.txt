@@ -1,5 +1,0 @@
-powershell -nop -w hidden -c → Runs PowerShell commands stealthily.
-
-powershell.exe -ExecutionPolicy Bypass -NoProfile -NonInteractive → Disables security policies.
-
-powershell -enc
